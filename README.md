@@ -4,10 +4,10 @@
 - 리소스 탐색 약 2주
 - 스크립트 작성 약 2주    
 
--  영상  
+영상  
   &nbsp; &nbsp; [![IMAGE ALT TEXT](http://img.youtube.com/vi/Cjntqqy8IQk/0.jpg)](http://www.youtube.com/watch?v=Cjntqqy8IQk "Video Title")
 
-- 리소스 출처
+리소스 출처
   - 캐릭터 스프라이트 : https://blog.naver.com/bongrainhung
   - 백그라운드 이미지 : https://blog.naver.com/bongrainhung
   - 게임 UI : 포트리스 레드 apk
