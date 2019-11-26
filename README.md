@@ -5,7 +5,7 @@
 - 스크립트 작성 약 2주    
 
 - 샘플 영상
-  - <iframe width="620" height="315" src="https://www.youtube.com/embed/Cjntqqy8IQk"> </iframe>
+  - [![IMAGE ALT TEXT](http://img.youtube.com/vi/Cjntqqy8IQk/0.jpg)](http://www.youtube.com/watch?v=Cjntqqy8IQk "Video Title")
 
 - 리소스 출처
   - 캐릭터 스프라이트 : https://blog.naver.com/bongrainhung
